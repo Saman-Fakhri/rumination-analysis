@@ -1,4 +1,4 @@
-# Rumination-Analysis
+# Self-Esteem, Optimism, and Rumination: Predictors and Moderation Analysis
 
 Psychological data analysis project examining the relationship between self-esteem, optimism, and rumination using Python.
 
