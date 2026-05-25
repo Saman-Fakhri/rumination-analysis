@@ -1,4 +1,4 @@
-# rumination-analysis
+# Rumination-Analysis
 
 Psychological data analysis project examining the relationship between self-esteem, optimism, and rumination using Python.
 
